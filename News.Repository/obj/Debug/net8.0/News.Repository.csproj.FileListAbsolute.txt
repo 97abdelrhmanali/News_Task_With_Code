@@ -1,0 +1,15 @@
+E:\route course\.net\NewsTask Solution\News.Repository\bin\Debug\net8.0\News.Repository.deps.json
+E:\route course\.net\NewsTask Solution\News.Repository\bin\Debug\net8.0\News.Repository.dll
+E:\route course\.net\NewsTask Solution\News.Repository\bin\Debug\net8.0\News.Repository.pdb
+E:\route course\.net\NewsTask Solution\News.Repository\bin\Debug\net8.0\News.Core.dll
+E:\route course\.net\NewsTask Solution\News.Repository\bin\Debug\net8.0\News.Core.pdb
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.csproj.AssemblyReference.cache
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.AssemblyInfoInputs.cache
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.AssemblyInfo.cs
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.csproj.CoreCompileInputs.cache
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.csproj.CopyComplete
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.dll
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\refint\News.Repository.dll
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\News.Repository.pdb
+E:\route course\.net\NewsTask Solution\News.Repository\obj\Debug\net8.0\ref\News.Repository.dll

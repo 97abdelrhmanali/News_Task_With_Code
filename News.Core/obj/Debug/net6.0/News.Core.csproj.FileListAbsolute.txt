@@ -1,0 +1,12 @@
+E:\route course\.net\NewsTask Solution\News.Core\bin\Debug\net6.0\News.Core.deps.json
+E:\route course\.net\NewsTask Solution\News.Core\bin\Debug\net6.0\News.Core.dll
+E:\route course\.net\NewsTask Solution\News.Core\bin\Debug\net6.0\News.Core.pdb
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.AssemblyInfoInputs.cache
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.AssemblyInfo.cs
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.csproj.CoreCompileInputs.cache
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.dll
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\refint\News.Core.dll
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.pdb
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\ref\News.Core.dll
+E:\route course\.net\NewsTask Solution\News.Core\obj\Debug\net6.0\News.Core.csproj.AssemblyReference.cache

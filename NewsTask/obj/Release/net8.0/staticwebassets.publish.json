@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zuhTSWOPWB3ClPZkMaSaGbijH33OG5cBSUNJvdrjW+s=",
+  "Source": "NewsTask",
+  "BasePath": "_content/NewsTask",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NewsTask\\wwwroot",
+      "Source": "NewsTask",
+      "ContentRoot": "E:\\route course\\.net\\NewsTask Solution\\NewsTask\\wwwroot\\",
+      "BasePath": "_content/NewsTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
